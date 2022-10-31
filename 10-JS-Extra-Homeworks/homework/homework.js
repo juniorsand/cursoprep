@@ -132,7 +132,7 @@ function buscoInterseccion(arreglo1, arreglo2){
       }
     }
   }
-  return coincidecial
+  return coincidecial;
 }
 
 
